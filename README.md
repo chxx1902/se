@@ -1,5 +1,5 @@
 ## 과제 결과물 위치 (doc 폴더)
-* [cite_start]**프로젝트 II (대상 시스템 품질 요소 추정)**: [doc/project_quality_elements.txt](./doc/project_quality_elements.txt)
+**프로젝트 II (대상 시스템 품질 요소 추정)**: [doc/project_quality_elements.txt](./doc/project_quality_elements.txt)
 se test
 test 1
 test 2
