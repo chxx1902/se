@@ -6,3 +6,6 @@
 * **코멘트 반영 내용**:  
   팀원이 남긴 issue comment를 바탕으로 수정하였고,  
   수정 내용은 해당 comment 아래에 정리해두었음.
+
+## jira 과제
+https://chxx.atlassian.net/jira/software/projects/EXAM/boards/2?atlOrigin=eyJpIjoiODZkYWNlMTQ2YWRhNDFkZWIyMGU3Y2MxZWYwZmEyZjkiLCJwIjoiaiJ9
