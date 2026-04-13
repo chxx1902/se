@@ -9,3 +9,4 @@
 
 ## jira 과제
 https://chxx.atlassian.net/jira/software/projects/EXAM/boards/2?atlOrigin=eyJpIjoiODZkYWNlMTQ2YWRhNDFkZWIyMGU3Y2MxZWYwZmEyZjkiLCJwIjoiaiJ9
+* 엑세스 권한 요청해주시면 확인하는대로 승인하겠습니다...!
