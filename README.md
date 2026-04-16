@@ -7,6 +7,7 @@
   팀원이 남긴 issue comment를 바탕으로 수정하였고,  
   수정 내용은 해당 comment 아래에 정리해두었음.
 
-## jira 과제
+## jira 과제 - 시험계획표
 https://chxx.atlassian.net/jira/software/projects/EXAM/boards/2?atlOrigin=eyJpIjoiODZkYWNlMTQ2YWRhNDFkZWIyMGU3Y2MxZWYwZmEyZjkiLCJwIjoiaiJ9
-* 엑세스 권한 요청해주시면 확인하는대로 승인하겠습니다...!
+* 링크를 통해 확인하실 경우엑세스 권한 요청해주시면 확인하는대로 승인하겠습니다...!
+<img width="827" height="392" alt="스크린샷 2026-04-17 오전 4 59 57" src="https://github.com/user-attachments/assets/0539fcf0-c12e-454b-8194-9d25c8eb7846" />
