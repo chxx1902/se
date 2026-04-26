@@ -13,4 +13,4 @@ https://chxx.atlassian.net/jira/software/projects/EXAM/boards/2?atlOrigin=eyJpIj
 <img width="827" height="392" alt="스크린샷 2026-04-17 오전 4 59 57" src="https://github.com/user-attachments/assets/0539fcf0-c12e-454b-8194-9d25c8eb7846" />
 
 ## 8주차 과제 (프로젝트 관리 계획서)
-* **과제2 (프로젝트 관리 계획서)**: [doc/Project_PLAN.md](.doc/Project_PLAN.md)
+* **과제2 (프로젝트 관리 계획서)**: [doc/Project_PLAN.md](./doc/Project_PLAN.md)
