@@ -14,3 +14,6 @@ https://chxx.atlassian.net/jira/software/projects/EXAM/boards/2?atlOrigin=eyJpIj
 
 ## 8주차 과제 (프로젝트 관리 계획서)
 * **과제2 (프로젝트 관리 계획서)**: [doc/Project_PLAN.md](./doc/Project_PLAN.md)
+
+## 9주차 과제 (요구사항 정의서)
+* **과제3 (요구사항 정의서)**: [doc/Requirements_Definition.md](./doc/Requirements_Definition.md)
