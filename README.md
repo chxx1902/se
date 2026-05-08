@@ -17,3 +17,6 @@ https://chxx.atlassian.net/jira/software/projects/EXAM/boards/2?atlOrigin=eyJpIj
 
 ## 9주차 과제 (요구사항 정의서)
 * **과제3 (요구사항 정의서)**: [doc/Requirements_Definition.md](./doc/Requirements_Definition.md)
+
+## 10주차 과제 (요구사항 분석서)
+* **과제4 (요구사항 분석서)**: [doc/Requirements_Analysis.md](.doc/Requirements_Analysis.md)
