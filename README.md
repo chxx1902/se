@@ -20,3 +20,6 @@ https://chxx.atlassian.net/jira/software/projects/EXAM/boards/2?atlOrigin=eyJpIj
 
 ## 10주차 과제 (요구사항 분석서)
 * **과제4 (요구사항 분석서)**: [doc/Requirements_Analysis.md](./doc/Requirements_Analysis.md)
+
+## 14주차 과제 (테스트 보고서)
+* **과제5 (테스트 보고서)**: [doc/test_report.md](./doc/test_report.md)
