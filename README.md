@@ -23,3 +23,6 @@ https://chxx.atlassian.net/jira/software/projects/EXAM/boards/2?atlOrigin=eyJpIj
 
 ## 14주차 과제 (테스트 보고서)
 * **과제5 (테스트 보고서)**: [doc/test_report.md](./doc/test_report.md)
+* **코멘트 반영 내용**:  
+  팀원이 남긴 issue comment를 바탕으로 수정하였고,  
+  수정 내용은 해당 comment 아래에 정리해두었음.
